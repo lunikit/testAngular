@@ -1,2 +1,4 @@
-# testAngular
-test App
+# Test app
+
+npm i
+npm start
