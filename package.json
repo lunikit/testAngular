@@ -1,0 +1,19 @@
+{
+  "name": "test-anrular",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunikit/testAngular.git"
+  },
+  "author": "Nikita Luksha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lunikit/testAngular/issues"
+  },
+  "homepage": "https://github.com/lunikit/testAngular#readme"
+}
